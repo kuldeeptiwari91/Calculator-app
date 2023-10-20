@@ -1,1 +1,2 @@
 # Calculator-app
+Welcome to Calculator, your go-to solution for all your mathematical needs! This open-source Android app combines a sleek and intuitive user interface with powerful functionality to provide you with a comprehensive calculator experience. Whether you're a student, a professional, or anyone in between, Calculator is designed to make your life easier when it comes to crunching numbers.
