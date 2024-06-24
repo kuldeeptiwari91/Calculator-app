@@ -32,7 +32,7 @@ Contributions are welcome! This open-source project invites developers to fork, 
 
 ## Contact
 
-For any questions, bug reports, or suggestions, please feel free to contact the project owner at kuldeeptiwari9162@gmail.com .
+For any questions, bug reports, or suggestions, please feel free to contact me at kuldeeptiwari9162@gmail.com .
 
 Enjoy using the Calculator App and simplify your calculations with style!
 
