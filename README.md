@@ -23,8 +23,7 @@ The Calculator App is a versatile Android application designed to simplify your 
 
 1. Launch the app.
 2. Perform calculations using the user-friendly interface.
-3. Access advanced functions by switching to scientific mode.
-4. View calculation history and recall stored values.
+3. View calculation history and recall stored values.
 
 ## Contributions
 
